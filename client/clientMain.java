@@ -1,6 +1,6 @@
-package client;
+package Client;
 
-public class clientMain {
+public class ClientMain {
     public static void main(String[] args) {
         Client client = new Client(); 
     }
