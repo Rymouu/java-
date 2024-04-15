@@ -1,4 +1,4 @@
-package server;
+package serveur;
 
 class ServerMain {
     public static void main(String[] args) {
